@@ -1,0 +1,16 @@
+.tab {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.textarea {
+  width: 150px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+p {
+  display: none;
+}
+
+
